@@ -10,4 +10,4 @@ Now edit runPrim.m. The main switch statement controls the analysis. You just ra
 
 All cases set metadata used by stream, which executes the analyses. See "User guide to stream" and streamTute.m for short tutorials on stream.
 
-The file setPrim.m contains code for setting model parameters, and is only required if changing parameters. After unzipping the data file Primary.zip, run setPrim.m.
+The file setPrim.m contains code for setting model parameters, and is only required if changing parameters. After unzipping the data file SetPrim.zip, run setPrim.m.
